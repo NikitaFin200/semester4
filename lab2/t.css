@@ -1,0 +1,19 @@
+
+table.second.td {  
+
+width: 250px;  
+
+margin: 0 auto; 
+
+} 
+
+.second.td td {
+
+width: 40%; 
+
+text-align: center; 
+
+border: 1px solid #cdc513;  
+
+}
+
